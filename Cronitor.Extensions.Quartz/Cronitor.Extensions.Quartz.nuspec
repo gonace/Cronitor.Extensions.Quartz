@@ -16,15 +16,15 @@
     <repository type="git" url="https://github.com/gonace/Cronitor.Extensions.Hosting" branch="master" />
     <dependencies>
       <group targetFramework="netstandard2.0">
-        <dependency id="Cronitor" version="1.2.42" />
+        <dependency id="Cronitor" version="1.3.55" />
         <dependency id="Microsoft.Extensions.Hosting.Abstractions" version="7.0.0" />
       </group>
       <group targetFramework="netstandard2.1">
-        <dependency id="Cronitor" version="1.2.42" />
+        <dependency id="Cronitor" version="1.3.55" />
         <dependency id="Microsoft.Extensions.Hosting.Abstractions" version="7.0.0" />
       </group>
       <group targetFramework="net6.0">
-        <dependency id="Cronitor" version="1.2.42" />
+        <dependency id="Cronitor" version="1.3.55" />
         <dependency id="Microsoft.Extensions.Hosting.Abstractions" version="7.0.0" />
       </group>
     </dependencies>
