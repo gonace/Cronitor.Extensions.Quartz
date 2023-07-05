@@ -1,1 +1,2 @@
 ﻿# Cronitor.Extensions.Quartz
+> Listeners are registered with the scheduler during run time, and are NOT stored in the JobStore along with the jobs and triggers. This is because listeners are typically an integration point with your application. Hence, each time your application runs, the listeners need to be re-registered with the scheduler.
