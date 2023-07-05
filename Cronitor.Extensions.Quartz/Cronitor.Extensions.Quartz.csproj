@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Cronitor" Version="1.2.42" />
+    <PackageReference Include="Cronitor" Version="1.3.55" />
     <PackageReference Include="Quartz" Version="3.6.3" />
   </ItemGroup>
 
